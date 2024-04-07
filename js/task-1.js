@@ -8,5 +8,3 @@ function makeTransaction(quantity, pricePerDroid, customerCredits) {
     return 'Insufficient funds!';
   }
 }
-
-quantity.le;
